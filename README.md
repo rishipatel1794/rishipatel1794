@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rishi Patel👋
 
 [![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https://yourwebsite.com)](https://yourwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
