@@ -1,64 +1,21 @@
-# Rishi Patel - Software Developer
+# 💫 About Me:
+🔭 I’m currently working on Full Stack Project.<br>🌱 I’m currently learning Machine Learning, BlockChain.
 
-## Welcome to My GitHub Profile! 👋
-I am **Rishi Patel**, a proactive software developer passionate about creating innovative software solutions. My journey in development combines expertise in Python, Django, and the MERN stack, along with hands-on experience in dynamic web projects and tech content creation. I aim to deliver seamless functionality and aesthetic appeal in all my projects.
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rishi_1794) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rishi-patel-85611a251) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@codeO_phobia) 
 
-## 🛠 Technical Skills
-- **Programming Languages**: Python, Java, C/C++, JavaScript
-- **Frameworks**: MERN Stack, Next.js, Flask, WordPress
-- **Libraries**: Django, sklearn (Basic), TensorFlow (Basic)
-- **Tools**: SQLite3, SEO Tools
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rishipatel1794&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rishipatel1794&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishipatel1794&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🌟 Featured Projects
-1. **Lung Cancer Detection System**
-   - Built a machine learning-based system to classify CT scan images as benign, malignant, or normal.
-   - Aimed to assist in early detection, achieving high classification accuracy.
-
-2. **Travel Companionship Platform**
-   - Designed a Next.js-based platform connecting travelers with similar interests and destinations.
-   - Included secure user authentication, profile matching, and trip management tools.
-
-3. **Water Bill Management System**
-   - Created a Flask-based web app to manage customer accounts and calculate monthly bills automatically.
-   - Streamlined billing processes, ensuring timely and accurate invoicing.
-
-4. **Inventory Management System**
-   - Developed a desktop app using Python and Tkinter for efficient inventory tracking.
-   - Featured role-based access (Admin and Employee) for streamlined operations.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rishipatel1794&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=rishipatel1794&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📚 Education
-- **B.Tech in Computer Science & Engineering**
-  - Charotar University of Science and Technology, Anand, Gujarat
-  - Current CGPA: 8.52
-- **12th Standard**
-  - Lokmanya Vidyalaya, Surat, Gujarat
-  - Percentage: 83%
-
----
-
-## 🏆 Certifications
-- NPTEL Database Management System
-- RedHat Certification
-- PowerBI
-- Programming Basics
-- C++ Programming
-
----
-
-## 🏅 Awards & Activities
-- State-Level Karate Player
-
----
-
-## 🌐 Let's Connect
-- **Email**: rishipatel1794@gmail.com
-- **LinkedIn**: [Rishi Patel](https://www.linkedin.com/in/rishi-patel-85611a251)
-
-Feel free to explore my repositories and projects! Contributions, feedback, and collaborations are always welcome. Let's create something impactful together!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
